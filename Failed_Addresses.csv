@@ -1,0 +1,89 @@
+Row Index,Property Address,Buyer Name / LLC,Failure Reason,Timestamp
+6,"4417 Cool Valley Dr, Las Vegas, NV 89110","SCARF LLC / PABLO COVARRUBIAS / KOW, HENRY","Exception: Page.wait_for_timeout: Target page, context or browser has been closed",2026-10-01 08:50:18
+7,"4659 Monterey Cir Unit 1, Las Vegas, NV 89169",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+8,"1812 Santa Paula Dr, Las Vegas, NV 89104",BIG RED LLC / THOMAS B REYNOLDS,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+9,"3111 Bel Air Dr Unit 4F, Las Vegas, NV 89109",HUBBSELEVATION LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+10,"2133 Willowbury Dr Unit A, Las Vegas, NV 89108",HUBBSELEVATION LLC / TYLER HUBBS,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+11,"7450 S Eastern Ave #1122, Las Vegas, NV 89123",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+12,"543 Chandler St, Henderson, NV 89014",ALCHEMY INVESTMENTS LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+13,"501 Lacy Ln, Las Vegas, NV 89107",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+14,"8909 Pesaro Dr, Las Vegas NV 89117",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+15,"2965 Calle Grande, Las Vegas, NV 89120",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+16,"3504 Trilogy Dr, Las Vegas, NV 89108",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+17,"7561 Lorinda Ave, Las Vegas, NV 89128","MOVE MADE SIMPLE LLC / IMELDA PROBST / BURRELL, TONI YVETTE","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+18,"370 Rushing Creek Ct, Henderson, NV 89014",PLOT PROPERTY GROUP LLC / VLADIMIR PLOTNIKOV,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+19,"4233 Glass Lantern Dr, Las Vegas NV 89032",YESDCT LLC / Gloria Diaz de Castaneda,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+20,"2333 Cardiff Ln Unit C, Las Vegas NV 89108",ALCHEMY INVESTMENTS LLC / CASEY RYAN,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+21,"3939 Meadowglen Dr, Las Vegas, NV 89121",ELO EQUITY GROUP LLC / NICHOLAS ELO,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+22,"208 Lorenzi St, Las Vegas, NV 89107","ROSALES, RAUL / MATEO, FRANCISCO J HERNANDEZ","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+23,"1012 Cadiz Ave, Henderson, NV 89015",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+24,"624 Donner St, Las Vegas, NV 89107","TL HOME REMODELS LLC / TIBURCIO LEON MORA / PRECIADO, ADAN","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+25,"3972 Maple Hill Rd, Las Vegas, NV 89115",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+26,"4506 Palencia Ave, Las Vegas, NV 89121","ENGS, STUART R JR EE","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+27,"2210 E Desert Inn Rd, Winchester, NV 89169",REAL ESTATE ROCK LV LLC / KARLA CARDENAS,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+28,"3869 Rawhide St, Las Vegas, NV 89120",FLIP SIDE PROPERTIES LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+29,"6700 Snake River Ave, Las Vegas, NV 89130",ESP DESERT HOLDINGS LLC / Bryan Espinosa Miranda,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+30,"5022 Long View Dr, Las Vegas, NV 89120",GO GRIZZLIES LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+31,"2958 Ferndale St, Las Vegas, NV 89121",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+32,"4309 Mott Circle, Las Vegas, NV 89102","LAMAUTE, LYONEL / ALPHA INVESTMENT GROUP INC","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+33,"2579 Diamante Ct, Las Vegas, NV 89121",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+34,"600 S 11th St, Las Vegas, NV 89101",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+35,"220 N Ronald Ln, Las Vegas, NV 89110",SCARF LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+36,"6316 Monarch Creek St, Las Vegas NV 89130","FU, ZAO / WANG, MENG","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+37,"1400 Palantine Hill Dr, Las Vegas, NV 89117",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+38,"4339 Gibraltar Way, Las Vegas, NV 89121",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+39,"4531 Del Oro Dr, Las Vegas, NV 89102",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+40,"864 Parkhurst St, Las Vegas, NV 89110",TORITO HOMES LLC / Abigail Barajas,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+41,"3909 Sequoia Ave, Las Vegas NV 89110",ALCHEMY INVESTMENTS LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+42,"4124 Autumn St, Las Vegas, NV 89120",GO GRIZZLIES LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+43,"2708 Camphor Tree St, Las Vegas NV 89108","ENGS, STUART R JR EE","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+44,"529 Amethyst, Henderson, NV 89015",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+45,"6225 Alta Dr, Las Vegas, NV 89107","VANGUARD CREST HOLDINGS LLC / CULVER, WILLIAM D","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+46,"3454 Bankside Dr, Las Vegas, NV 89129",ALPHA INVESTMENT GROUP INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+47,"8425 Airmont Ct, Las Vegas, NV 89128",FLIP SIDE PROPERTIES LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+48,"109 N Princeton St, Las Vegas, NV 89107","MONACO PRO KITCHENS LLC / JOSE MADINA QUINTERO / BAEZ, KIMBERLY ANN","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+49,"9836 Kernville Dr, Las Vegas, NV 89134",CAJIE LLC / Jonathan Jacobs,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+50,"1511 Living Desert Dr #B, Las Vegas, NV 89119",OPENDORR PROPERTY TRUST I,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+51,"10332 Falls Church Ave, Las Vegas, NV 89144",PLOT PROPERTY GROUP LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+52,"3725 Covewick Dr, North Las Vegas, NV 89032",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+53,"5197 Andover Dr, Las Vegas, NV 89122",ALCHEMY INVESTMENTS LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+54,"55 Sirnoble St, Las Vegas, NV 89110",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+55,"322 Redondo St, Henderson, NV 89014",PN II INC REDONDO STREET SERIES OF QUARTER MOON ENTERPRISES LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+56,"160 Lailani St, Las Vegas, NV 89110",LIANA FREY HOLDINGS LLC / Jeffrey Ehlert,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+57,"1413 Pine Leaf Dr, Las Vegas, NV 89144",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+58,"2200 E Evans Ave, North Las Vegas, NV 89030",HUBBSELEVATION LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+59,"71 Church St, Henderson, NV 89015",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+60,"1512 Sapphire Springs Cir, Las Vegas NV 89108",LEGACY HOME INVESTMENTS LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+61,"3051 Morning Springs Dr, Henderson, NV 89074",BOB MILLER INVESTMENT PROPERTIES LLC / KENNY MILLER,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+62,"4507 Cory Pl, Las Vegas, NV 89107",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+63,"11832 Magliana St, Las Vegas, NV 89183",PLOT PROPERTY GROUP LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+64,"248 Greyhawk, Henderson, NV 89074",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+65,"4360 E Comanche Dr, Pahrump, NV 89061",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+66,"486 Federman Dr, Las Vegas, NV 89123",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+67,"1300 Rawhide St, Las Vegas, NV 89119","FOXWORTHY, DERIN THOMAS / GO GRIZZLIES LLC","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+68,"7069 Forest Vista St, Las Vegas, NV 89147",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+69,"3512 E Tonopah Ave, North Las Vegas, NV 89030",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+70,"2525 Arenas St, Las Vegas, NV 89102",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+71,"5082 Palmyra Ave, Las Vegas, NV 89146",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+72,"8957 Gray Quail Ct, Las Vegas, NV 89149",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+73,"4722 Casa Bonita Dr, North Las Vegas, NV 89032",HUBBSELEVATION LLC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+74,"2539 Masters Cir, Las Vegas, NV 89142",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+75,"3473 Happy Jack Dr, Las Vegas, NV 89115",BETTER ASSETS INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+76,"4420 Berkley Ave, Las Vegas, NV 89110",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+77,"2034 Wildwood Lake St, Henderson, NV 89052",SHARAN PROPERTIES LP INC,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+78,"3895 Autumn St, Las Vegas, NV 89120",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+79,"2135 N Castleberry Ln, Las Vegas, NV 89156",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+80,"5166 S Jones Blvd #206, Las Vegas NV 89118",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+81,"3477 Kensbrook St, Las Vegas, NV 89121",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+82,"1418 E Red Sunset Ave, Henderson, NV 89074",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+83,"4899 S Torrey Pines Dr Unit 201, Las Vegas, NV 89103",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+84,"3824 W Rock Dove Way, North Las Vegas, NV 89084",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+85,"6220 Hobart Ave, Las Vegas, NV 89107",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+86,"1212 Pontiac Ave, North Las Vegas, NV 89030",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+87,"2108 E Owens Ave, North Las Vegas, NV 89030","CASTLE LLC / MORSE, ROBERT BERNARD EE","Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+88,"816 Singing Drum Dr, Henderson, NV 89002",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+89,"1528 Kiwi Ln, Las Vegas, NV 89123",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+90,"547 E Oakey Blvd, Las Vegas, NV 89104",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+91,"3515 Kensbrook St, Las Vegas, NV 89121",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+92,"2272 Jo Anne Ln, Las Vegas, NV 89156",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18
+93,"6959 Forest Vista St, Las Vegas, NV 89147",,"Exception: Locator.is_visible: Target page, context or browser has been closed",2026-10-01 08:50:18

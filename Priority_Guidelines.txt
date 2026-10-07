@@ -1,0 +1,73 @@
+================================================================================
+           BUYER & CONTACT SKIP TRACING PRIORITIZATION FRAMEWORK
+                 (3-WAY CROSS-VALIDATION & ADDRESS MATCHING)
+================================================================================
+
+1. CORE STRATEGY & 3-WAY VALIDATION PIPELINE
+--------------------------------------------------------------------------------
+Goal: Extract, validate, and prioritize phone numbers and emails for buyers/LLCs 
+using a 3-way verification pipeline to guarantee 100% accuracy and zero wasted calls.
+
+[ STEP 1: Nevada SOS (Single Source of Truth) ]
+- Look up the Buyer LLC Name on the Nevada Secretary of State (NV SOS) portal.
+- Verify that the Buyer Name / LLC in the input sheet matches NV SOS records.
+- Identify the official "Active Managing Member / Manager" (Full Name).
+- Capture their registered office / personal mailing address (Street, City, Zip).
+- Note: Ignore Inactive Officers and Third-Party Registered Agents.
+
+[ STEP 2: DealMachine Cross-Check ]
+- Open the property details and Associated Contacts in DealMachine.
+- Match the Active Managing Member's name and address against DealMachine contacts.
+- Extract any direct matching phone numbers and emails.
+
+[ STEP 3: Web Search & Public Records Verification ]
+- Search the Active Managing Member's Name + Address in public directory databases.
+- Confirm active mobile numbers, landlines, and carrier types.
+- Ensure the address matches (e.g., Las Vegas / Henderson, NV) so the identity is 
+  100% geographically verified.
+
+--------------------------------------------------------------------------------
+2. PHONE NUMBER PRIORITY HIERARCHY (1 to 6)
+--------------------------------------------------------------------------------
+
+[ Priority 1 ] - Active Managing Member Primary Mobile Line
+  - Condition: Validated across Nevada SOS + DealMachine + Web Search.
+  - Role: Primary Decision Maker Direct Mobile (Top Target for Call / SMS).
+
+[ Priority 2 ] - Active Managing Member Secondary Mobile Line
+  - Condition: 2nd active mobile or alternative direct line for the same owner.
+  - Role: Immediate fallback if Priority 1 does not answer.
+
+[ Priority 3 ] - Active Co-Member / Partner Mobile OR Managing Member Office/Landline
+  - Condition: 2nd Active Managing Member listed on NV SOS (if partnership),
+               OR the primary owner's direct office/work landline.
+  - Role: Co-decision maker / business line.
+
+[ Priority 4 ] - Associated Family Member / Relative
+  - Condition: Same surname / address associated with the buyer.
+  - Role: Family trust member / co-signatory.
+
+[ Priority 5 ] - Current Tenant / Resident
+  - Condition: Occupant of the property from DealMachine utility/mailing records.
+  - Role: Current resident (Preserved as backup).
+
+[ Priority 6 ] - Previous Owner / Seller
+  - Condition: Former deed owner who sold the property to the LLC.
+  - Role: Historical seller (Lowest backup priority).
+
+--------------------------------------------------------------------------------
+3. RECOMMENDED SPREADSHEET STRUCTURE
+--------------------------------------------------------------------------------
+
+| Property Address | Buyer LLC | Verified Owner (NV SOS) | Phone 1 (Owner Mobile) | Phone 2 (Owner Alt) | Phone 3 (Partner/Office) | Phone 4 (Relative) | Phone 5 (Tenant) | Phone 6 (Seller/Other) | Emails |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+================================================================================
+                        বাংলা সারসংক্ষেপ (WORKFLOW SUMMARY)
+================================================================================
+১. শিটের বায়ারের নাম নিয়ে Nevada SOS-এ গিয়ে Active Managing Member ও তাদের অ্যাড্রেস কনফার্ম করা।
+২. DealMachine এবং Web Search-এ ওই ওনারের নাম ও অ্যাড্রেস দিয়ে সার্চ করে ডিরেক্ট মোবাইল নম্বর ও ইমেইল ভ্যালিডেট করা।
+৩. ৩টি সোর্স (NV SOS + DealMachine + Web) ম্যাচ করলে সেটি Priority 1 ও Priority 2 হিসেবে সেট করা।
+৪. ২য় পার্টনার বা অফিস ল্যান্ডলাইনকে Priority 3-তে রাখা।
+৫. বাকি থাকা পরিবার, বর্তমান ভাড়াটিয়া ও সাবেক বিক্রেতাদের পর্যায়ক্রমে Priority 4, 5, 6-এ সংরক্ষণ করা।
+================================================================================
